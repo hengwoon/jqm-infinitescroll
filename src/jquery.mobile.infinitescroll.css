@@ -1,0 +1,21 @@
+.ui-infinitescroll
+{
+	text-align: center;
+	font-size: 11px;
+	height: 16px;
+}
+
+.ui-infinitescroll .ui-loading-text
+{
+	vertical-align: middle;
+}
+
+.ui-infinitescroll .ui-icon-loading
+{
+	display: inline-block;
+	width: 16px;
+	height: 16px;
+	background-size: 16px 16px;
+	vertical-align: middle;
+	margin-right: 5px;
+}
