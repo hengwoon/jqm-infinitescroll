@@ -1,7 +1,7 @@
 /**
  * infinite scroll plugin. 
  * 
- * @author Heng Woon Ong
+ * @author Heng Woon Ong <https://github.com/hengwoon>
  * @copyright Oodle Inc. 2012
  * @version 0.1
  * 
